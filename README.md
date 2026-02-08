@@ -70,3 +70,4 @@ Performance optimization queries
 🤝 Connect
 
 If you’re also learning SQL or data analytics, feel free to connect or share feedback!
+in/shorya-bisht-a20144349
